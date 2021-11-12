@@ -1,0 +1,71 @@
+[
+    {
+        
+        "id": 1,
+        "title": "CARDIOLOGY",
+         "img":"https://i.ibb.co/Cmc6qLb/CARDIOLOGY.jpg",
+         "detalis": "A cardiologist is a medical doctor who studies and treats diseases and conditions of the cardiovascular system — the heart and blood vessels — including heart rhythm disorders, coronary artery disease, heart attacks, heart defects and infections, and related disorders.  The training to become a cardiologist is rigorous and includes more than 10 years of medical training."
+
+      },
+
+      {
+        
+        "id": 2,
+        "title": "ENT",
+         "img":"https://i.ibb.co/LRxfkrC/ENT.jpg",
+         "detalis": "Eastern Shore ENT realizes you have a variety of choices when it comes to your healthcare regarding medical and surgical treatment of ear, nose and throat conditions today.  That’s why we’re uniquely committed to each patient: ensuring the most advanced treatment options clearly explained, comfortable to you and available right here at home.  The Eastern Shore has been home to our practice for 35 years, and to many of our team all of our lives. You’re not just patients, but neighbors, too."
+      },
+
+      {
+        
+        "id": 3,
+        "title": "GASTROENTEROLOGY",
+         "img":"https://i.ibb.co/n12PFQV/GASTROENTEROLOGY.jpg",
+         "detalis": "Gastroenterology is the branch of medicine that focuses on the digestive tract and the gallbladder, liver, bile ducts, and pancreas.Gastroenterologists are doctors who are trained to diagnose and treat problems in your gastrointestinal (GI) tract and liver. These doctors also do routine procedures such as colonoscopies, which look at the inside of your colon. They get 5-6 years of specialized education after medical school."
+      },
+
+      {
+        
+        "id": 4,
+        "title": "MEDICINE",
+         "img":"https://i.ibb.co/M9fgywt/MEDICINE.jpg",
+         "detalis": "You have a fever and also a little pain in the chest for about a week. Everyone is saying to show the doctor. But do not understand which doctor you have to go to. The kind of doctors we go to in this kind of situation are the doctors of medicine. These reputable physicians treat patients by prescribing medications according to their condition, not in any specific field, and refer to the specialist doctor at a particular specialty. At Parkview Hospital, the eight best medicine specialists of Chittagong are providing treatment to patients."
+      },
+
+      {
+        
+        "id": 5,
+        "title": "Nephrology",
+         "img":"https://i.ibb.co/VtN40bF/nephrology.jpg",
+         "detalis": "Nephrologists, or kidney doctors, study the kidneys and any diseases that affect them. They complete 2 more years of training after medical school and residency. If your primary care or family doctor thinks your kidneys aren’t working well, they may send you to a nephrologist. They’ll look for the cause of the problem and come up with a treatment plan that slows or stops it. You might need a referral from your regular doctor for insurance to cover the cost of your visit."
+      },
+
+      {
+        
+        "id": 6,
+        "title": "Orthopedics",
+         "img":"https://i.ibb.co/DDgGbW9/orthopedics.jpg",
+         "detalis": "A person who specializes in orthopedics is known as an orthopedist Orthopedists use both surgical and nonsurgical approaches to treat a variety of musculoskeletal issues, such as sports injuries, joint pain, and back problems.This article provides an overview of orthopedics. It outlines the different conditions that orthopedists treat and what people can expect during an orthopedic appointment.The article also covers the qualifications required to become an orthopedist."
+      },
+      {
+        
+        "id": 7,
+        "title": "UROLOGY",
+         "img":"https://i.ibb.co/GRDpp0B/UROLOGY.jpg",
+         "detalis": "Urology is a part of health care that deals with diseases of the male and female urinary tract (kidneys, ureters, bladder and urethra). It also deals with the male organs that are able to make babies (penis, testes, scrotum, prostate, etc.). Since health problems in these body parts can happen to everyone, urologic health is important.Urology is known as a surgical specialty. Besides surgery, a urologist is a doctor with wisdom of internal medicine, pediatrics, gynecology and other parts of health care. This is because a urologist encounters a wide range of clinical problems. The scope of urology is big and the American Urological Association has named seven subspecialty parts"
+      },
+      {
+        
+        "id": 8,
+        "title": "SKIN",
+         "img":"https://i.ibb.co/YWL5ywx/SKIN-VD.jpg",
+         "detalis":"Blogging has become popular on the Internet, and there seem to be as many blog designs as there are opinions expressed within them. A blog skin is a template that helps express the writer's words with visual flair. These can serve many purposes for a blog and are incredibly easy to apply to a blog."
+      },
+      {
+        
+        "id": 9,
+        "title": "SURGERY",
+         "img":"https://i.ibb.co/vkr7g8k/SURGERY.jpg",
+         "detalis": "It might not be as easy as it was several years ago to break onto the vlogging scene, but video is more important than ever to build a successful online marketing strategy."
+      }
+]
