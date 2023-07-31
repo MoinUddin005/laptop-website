@@ -1,4 +1,4 @@
-# Holiday Hype
+#Laptop world
 
 This is the live website link(https://assignment12-b8b1c.web.app/)
 
@@ -22,8 +22,8 @@ This is the live website link(https://assignment12-b8b1c.web.app/)
 - bootstrap & react-bootstrap
 
 ## Project Description
-- provide a digital traveling service.
-- this is a Traveler website.anyone can take any sevice from this site.
+- provide a Brand new service.
+- this is a Laptop world website.anyone can take any sevice from this site.
 - every viewable all places and our all service providing website.
 - There has some private route where you can't enter without login
 - After login you are redirect automaticaly to home page or as your footprint
